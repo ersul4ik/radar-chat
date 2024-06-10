@@ -20,7 +20,7 @@ make install
 
 `make run`
 
-## Deploy app
+## Runnin in Docker
 
 `make deploy`
 
